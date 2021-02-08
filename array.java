@@ -15,6 +15,7 @@ public class array {
 		age[5] = 8;
 		age[6] = 28;
 		
+		
 		//subtract the value of the first element in the array from the value in the last element of the array
 		ageSub = age[0] - age[age.length -1];
 		System.out.println("Subtraction1 = " + + ageSub);
